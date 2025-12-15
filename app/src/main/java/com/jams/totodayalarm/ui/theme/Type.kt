@@ -1,4 +1,4 @@
-package com.jams.totoday.ui.theme
+package com.jams.totodayalarm.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

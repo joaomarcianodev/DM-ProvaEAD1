@@ -1,4 +1,4 @@
-package com.jams.totoday
+package com.jams.totodayalarm
 
 import org.junit.Test
 

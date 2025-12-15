@@ -1,4 +1,4 @@
-package com.jams.totoday.ui.theme
+package com.jams.totodayalarm.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
