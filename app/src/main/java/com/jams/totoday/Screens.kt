@@ -115,7 +115,7 @@ fun TodoListScreen(
     Scaffold(
         topBar = {
             TopAppBar(
-                title = { Text("To Today") },
+                title = { Text("To Today Alarm") },
                 colors = TopAppBarDefaults.topAppBarColors(
                     containerColor = MaterialTheme.colorScheme.primary,
                     titleContentColor = MaterialTheme.colorScheme.onPrimary

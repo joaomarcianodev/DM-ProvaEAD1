@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.jams.totoday"
+    namespace = "com.jams.totodayalarm"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.jams.totoday"
+        applicationId = "com.jams.totodayalarm"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

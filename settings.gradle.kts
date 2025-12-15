@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "To Today"
+rootProject.name = "To Today Alarm"
 include(":app")
