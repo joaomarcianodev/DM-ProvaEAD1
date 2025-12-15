@@ -46,4 +46,4 @@
 
 ## Download
 
-[APK](https://github.com/joaomarcianodev/DM-Prova5/blob/main/app/release/ToToday-1.0.apk)
+[APK](https://github.com/joaomarcianodev/DM-ProvaEAD1/blob/main/app/release/app-release.apk)
